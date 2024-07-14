@@ -17,24 +17,6 @@ This project visualizes four different pathfinding algorithms (Dijkstra, BFS, DF
 
 - SFML (Simple and Fast Multimedia Library)
 
-### Installation
-
-1. Install SFML:
-    ```bash
-    sudo apt-get install libsfml-dev
-    ```
-
-2. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/Maze-Solver-Visualization.git
-    cd Maze-Solver-Visualization
-    ```
-
-3. Compile the code:
-    ```bash
-    g++ -std=c++11 -o MazeSolver main.cpp -lsfml-graphics -lsfml-window -lsfml-system
-    ```
-
 ### Usage
 
 1. Create an input file named `input3.txt` in the root directory of the project. The file should contain a 20x20 grid of integers, where `0` represents a wall and `1` represents an open path.
