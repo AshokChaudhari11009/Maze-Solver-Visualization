@@ -64,9 +64,3 @@ This project visualizes four different pathfinding algorithms (Dijkstra, BFS, DF
 #### Final State of the Maze with Path Found
 ![Final State of the Maze](final_state.png)
 
-
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
-
-### License
-
-This project is licensed under the MIT License.
